@@ -42,6 +42,7 @@
     
     NSLog(@"我在测试gitHub!");
     
+    NSLog(@"我 是 分 支 添 加");
 }
 
 @end
