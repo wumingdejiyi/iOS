@@ -40,6 +40,8 @@
     
     NSLog(@"我测试路径:%@", filePath);
     
+    NSLog(@"我在测试gitHub!");
+    
 }
 
 @end
